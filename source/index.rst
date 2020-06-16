@@ -6,15 +6,13 @@
 Welcome to COMEDI's documentation!
 ==================================
 
-Contents:
-
 .. toctree::
-
+   :caption: Contents:
+   
    install/quickstart.md
 
-Contents2:
-
 .. toctree::
+   :caption: Contents2:
 
    install/quickstart2.md  
 
