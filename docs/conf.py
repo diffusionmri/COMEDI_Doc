@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'COMEDI'
-copyright = '2020, Ye Wu'
-author = 'Ye Wu'
+project = u'COMEDI'
+copyright = u'2020, MRtrix contributors'
+author = u'Ye Wu'
 
 # The full version, including alpha/beta/rc tags
-release = '1.0'
+release = u'1.0'
 
 
 # -- General configuration ---------------------------------------------------
@@ -30,8 +30,7 @@ release = '1.0'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [
-]
+extensions = [ 'sphinx.ext.mathjax', 'notfound.extension' ]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
