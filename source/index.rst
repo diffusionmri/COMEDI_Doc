@@ -7,8 +7,8 @@ Welcome to COMEDI's documentation!
 ==================================
 
 Contents:
+
 .. toctree::
-   :maxdepth: 2
 
    install/quickstart.md
    install/quickstart2.md  
