@@ -6,16 +6,18 @@
 Welcome to COMEDI's documentation!
 ==================================
 
+INSTALL
 .. toctree::
    :maxdepth: 2
-   :caption: INSTALL:
+
+   install/quickstart.md
+
+INSTALL2
+.. toctree::
+   :maxdepth: 2
 
    install/quickstart.md
    
-   :maxdepth: 2
-   :caption: INSTALL2:
-
-   install/quickstart.md
 
 Indices and tables
 ==================
