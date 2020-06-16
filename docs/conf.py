@@ -73,3 +73,11 @@ from recommonmark.transform import AutoStructify
 #            'auto_toc_tree_section': 'Contents',
 #            }, True)
 #    app.add_transform(AutoStructify)
+
+html_context = {
+'css_files': [
+    'https://media.readthedocs.org/css/sphinx_rtd_theme.css',
+    'https://media.readthedocs.org/css/readthedocs-doc-embed.css',
+    '_static/css/custom.css',
+    ],
+}
