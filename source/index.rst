@@ -8,9 +8,13 @@ Welcome to COMEDI's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: INSTALL:
 
-   tutories/hello
+   install/quickstart.md
+
+   :caption: INSTALL2:
+
+   install/quickstart.md
 
 Indices and tables
 ==================
