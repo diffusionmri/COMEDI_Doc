@@ -12,13 +12,6 @@ INSTALL
 
    install/quickstart.md
 
-INSTALL2
-.. toctree::
-   :maxdepth: 2
-
-   install/quickstart.md
-   
-
 Indices and tables
 ==================
 
