@@ -11,7 +11,8 @@ Welcome to COMEDI's documentation!
    :caption: INSTALL:
 
    install/quickstart.md
-
+   
+   :maxdepth: 2
    :caption: INSTALL2:
 
    install/quickstart.md
