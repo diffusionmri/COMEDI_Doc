@@ -8,15 +8,15 @@ Welcome to COMEDI's documentation!
 
 .. toctree::
    :maxdepth: 1
-   :caption: Install:
+   :caption: Install
    
-   install/quickstart.md
+   install/quickstart
 
 .. toctree::
    :maxdepth: 1
-   :caption: Install2:
+   :caption: Install2
 
-   install/quickstart2.md  
+   install/quick
 
 Indices and tables
 ==================

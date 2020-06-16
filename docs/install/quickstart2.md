@@ -1,4 +1,4 @@
-## Quick Start2
+## Quick
 
 ### Installing a release
 
