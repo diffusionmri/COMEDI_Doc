@@ -11,6 +11,11 @@ Contents:
 .. toctree::
 
    install/quickstart.md
+
+Contents2:
+
+.. toctree::
+
    install/quickstart2.md  
 
 Indices and tables
