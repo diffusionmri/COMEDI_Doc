@@ -14,9 +14,9 @@ Welcome to COMEDI's documentation!
 
 .. toctree::
    :maxdepth: 1
-   :caption: Install2
+   :caption: Getting started
 
-   install/quick
+   getting/quick
 
 Indices and tables
 ==================
